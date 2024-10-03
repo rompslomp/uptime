@@ -22,19 +22,19 @@
     "url": "https://api.rompslomp.nl/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.rompslomp.nl.ico",
     "slug": "rompslomp-api",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 581,
-    "timeDay": 581,
-    "timeWeek": 581,
-    "timeMonth": 581,
-    "timeYear": 581,
+    "status": "up",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 588,
+    "timeDay": 588,
+    "timeWeek": 588,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {
-      "2024-10-03": 127
+      "2024-10-03": 201
     }
   }
 ]
