@@ -19,7 +19,7 @@ status-website:
   cname: status.rompslomp.nl
   theme: dark
   # baseUrl: /uptime
-  logoUrl: https://d2lrgha3750i0i.cloudfront.net/assets/logo_rompslomp_inverted.png
+  logoUrl: https://d2lrgha3750i0i.cloudfront.net/assets/rompslomp-logo-2023-diap.svg
   name: Rompslomp status
   introTitle:
   introMessage:
