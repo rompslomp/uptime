@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 535,
-    "timeDay": 535,
-    "timeWeek": 535,
-    "timeMonth": 535,
-    "timeYear": 535,
+    "time": 530,
+    "timeDay": 461,
+    "timeWeek": 530,
+    "timeMonth": 530,
+    "timeYear": 530,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.rompslomp.nl.ico",
     "slug": "rompslomp-api",
     "status": "up",
-    "uptime": "75.70%",
-    "uptimeDay": "75.70%",
-    "uptimeWeek": "75.70%",
-    "uptimeMonth": "75.70%",
-    "uptimeYear": "75.70%",
-    "time": 582,
-    "timeDay": 582,
-    "timeWeek": 582,
-    "timeMonth": 582,
-    "timeYear": 582,
-    "dailyMinutesDown": {
-      "2024-10-03": 201
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 578,
+    "timeDay": 528,
+    "timeWeek": 578,
+    "timeMonth": 578,
+    "timeYear": 578,
+    "dailyMinutesDown": {}
   }
 ]
