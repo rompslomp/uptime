@@ -1,7 +1,7 @@
 url: https://api.rompslomp.nl/api/v1/status
-status: down
-code: 403
-responseTime: 686
-lastUpdated: 2025-03-21T22:00:48.795Z
+status: up
+code: 200
+responseTime: 692
+lastUpdated: 2025-03-21T22:33:40.734Z
 startTime: 2024-10-03T10:16:24.595Z
 generator: Upptime <https://github.com/upptime/upptime>
