@@ -1,7 +1,7 @@
 url: https://app.rompslomp.nl/up
-status: up
-code: 200
-responseTime: 474
-lastUpdated: 2025-05-05T23:04:28.745Z
+status: down
+code: 403
+responseTime: 686
+lastUpdated: 2025-05-06T23:04:39.110Z
 startTime: 2024-10-03T10:16:23.773Z
 generator: Upptime <https://github.com/upptime/upptime>
