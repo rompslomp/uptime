@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.rompslomp.nl.ico",
     "slug": "rompslomp",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.89%",
     "time": 574,
-    "timeDay": 422,
-    "timeWeek": 506,
-    "timeMonth": 546,
+    "timeDay": 632,
+    "timeWeek": 508,
+    "timeMonth": 552,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2026-04-08": 33,
@@ -26,8 +26,7 @@
       "2025-04-28": 32,
       "2025-04-21": 33,
       "2025-04-20": 87,
-      "2025-04-19": 38,
-      "2025-04-17": 24
+      "2025-04-19": 38
     }
   },
   {
@@ -36,16 +35,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.rompslomp.nl.ico",
     "slug": "rompslomp-api",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 598,
-    "timeDay": 410,
-    "timeWeek": 504,
-    "timeMonth": 534,
-    "timeYear": 609,
+    "timeDay": 624,
+    "timeWeek": 502,
+    "timeMonth": 541,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2026-03-07": 157,
       "2025-07-24": 22,
@@ -56,8 +55,7 @@
       "2025-04-28": 32,
       "2025-04-21": 33,
       "2025-04-20": 87,
-      "2025-04-19": 38,
-      "2025-04-17": 24
+      "2025-04-19": 38
     }
   }
 ]
