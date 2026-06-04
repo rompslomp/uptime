@@ -6,10 +6,10 @@
     "slug": "rompslomp",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.95%",
     "time": 571,
     "timeDay": 433,
     "timeWeek": 508,
@@ -19,7 +19,7 @@
       "2025-07-24": 22,
       "2026-03-07": 157,
       "2026-04-08": 33,
-      "2026-06-04": 0
+      "2026-06-04": 31
     }
   },
   {
@@ -29,10 +29,10 @@
     "slug": "rompslomp-api",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
     "time": 594,
     "timeDay": 544,
     "timeWeek": 515,
@@ -41,7 +41,7 @@
     "dailyMinutesDown": {
       "2025-07-24": 22,
       "2026-03-07": 157,
-      "2026-06-04": 0
+      "2026-06-04": 31
     }
   }
 ]
