@@ -4,16 +4,16 @@
     "url": "https://app.rompslomp.nl/up",
     "icon": "https://icons.duckduckgo.com/ip3/app.rompslomp.nl.ico",
     "slug": "rompslomp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "93.84%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "95.45%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "91.73%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "95.38%",
+    "uptimeYear": "99.57%",
     "time": 564,
-    "timeDay": 522,
-    "timeWeek": 546,
-    "timeMonth": 513,
+    "timeDay": 543,
+    "timeWeek": 552,
+    "timeMonth": 514,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2025-07-24": 22,
@@ -32,7 +32,8 @@
       "2026-06-18": 155,
       "2026-06-20": 26,
       "2026-06-28": 26,
-      "2026-07-01": 88
+      "2026-07-01": 94,
+      "2026-07-02": 24
     }
   },
   {
@@ -40,16 +41,16 @@
     "url": "https://api.rompslomp.nl/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.rompslomp.nl.ico",
     "slug": "rompslomp-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "93.87%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "95.50%",
-    "uptimeYear": "99.59%",
+    "uptimeDay": "91.76%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "95.43%",
+    "uptimeYear": "99.58%",
     "time": 582,
-    "timeDay": 455,
-    "timeWeek": 540,
-    "timeMonth": 510,
+    "timeDay": 489,
+    "timeWeek": 547,
+    "timeMonth": 511,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2025-07-24": 22,
@@ -67,7 +68,8 @@
       "2026-06-18": 155,
       "2026-06-20": 26,
       "2026-06-28": 26,
-      "2026-07-01": 88
+      "2026-07-01": 94,
+      "2026-07-02": 24
     }
   }
 ]
